@@ -10,3 +10,7 @@ Some types of documents will be added in the next versions.
 # Version 1
 At this time, it's available a CPF validation.
 
+**Version 2**
+Add validation to the documents above:
+CNPJ
+PIS
