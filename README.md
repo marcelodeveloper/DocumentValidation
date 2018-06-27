@@ -14,5 +14,7 @@ At this time, it's available a CPF validation.
 **Version 2**
 
 Add validation to the documents above:
+
 CNPJ
+
 PIS
